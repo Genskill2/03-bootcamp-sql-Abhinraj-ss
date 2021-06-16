@@ -12,10 +12,10 @@ insert into publisher values (6,"Vintage", "UK");
 insert into books values (1,"The C Programming Language", 1);
 insert into books values (2,"The Go Programming Language", 1);
 insert into books values (3,"The UNIX Programming Environment", 1);
-insert into books values (4,"Cryptonomicon ", 2);
+insert into books values (4,"Cryptonomicon", 2);
 insert into books values (5,"Deep Work", 3);
 insert into books values (6,"Atomic Habits", 4);
-insert into books values (7,"The City and The City ", 5);
+insert into books values (7,"The City and The City", 5);
 insert into books values (8,"The Great War for Civilisation", 6);
 
 --into table Subjects
